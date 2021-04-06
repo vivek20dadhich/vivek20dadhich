@@ -1,5 +1,5 @@
 <p align="center">
- 👋 Hi, I’m Vivek Dadhich
+ 👋 Hi, I’m Vivek
 - A Computer Science postgraduate student currently enrolled at VIT, Vellore.
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
