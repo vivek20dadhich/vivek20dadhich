@@ -12,8 +12,6 @@
       <img align="center" src="http://hits.dwyl.com/vivek20dadhich/vivek20dadhich.svg">
     </a>
   </p>--->
-  
-![](https://komarev.com/ghpvc/?username=vivek20dadhich&color=lightgray)
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
  
 
