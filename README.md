@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> </p>--->
  
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150" color ="red">
+<img src = https://profile-counter.glitch.me/{vivek20dadhich}/count.svg>
 
 <!---
 vivek20dadhich/vivek20dadhich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
