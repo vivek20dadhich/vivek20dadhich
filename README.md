@@ -1,6 +1,6 @@
 <p align="center">
  👋 Hi, I’m Vivek
-- A Computer Science postgraduate student currently enrolled at VIT, Vellore.
+- A Data engineer working in a startup.
  
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
