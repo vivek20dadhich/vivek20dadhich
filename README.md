@@ -4,7 +4,7 @@
  
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-    <br><br><a href="https://twitter.com/v_wake820" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <br><br>
     <a href="https://www.linkedin.com/in/vivek20dadhich/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ivivekdadhich@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
 
